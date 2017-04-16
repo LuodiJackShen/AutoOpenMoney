@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">抢红包</string>
+    <string name="desc">微信抢红包绿色插件 by@Jack</string>
+    <string name="has_start">程序已启动</string>
+    <string name="introduce">使用介绍</string>
+    <string name="introduce_content1"><![CDATA[1、设置->辅助功能->开启“抢红包”服务(点我直达)。]]></string>
+    <string name="introduce_content2">2、允许开机启动。</string>
+    <string name="introduce_content3">3、锁屏为滑动锁屏时，支持黑屏情况下抢红包。</string>
+    <string name="introduce_content4">欢迎反馈：1781039528@qq.com</string>
+</resources>
